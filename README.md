@@ -1,12 +1,12 @@
-# 👋 Hi, I’m Aman Tripathi (@amanurmaliya)
+# 👋 Hi, I’m Aman Tripathi.
 
 ### 🚀 About Me  
 - 💻 **Software Developer** with a knack for solving complex problems and crafting scalable, user-focused applications.  
 - 👀 **Interests:** Web Development, Data Analysis, Machine Learning, and Competitive Programming.  
 - 🌱 **Currently Exploring:**  
   - Advanced **MERN Stack Development** (MongoDB, Express.js, React.js, Node.js).  
-  - **Data Structures & Algorithms (DSA)** to optimize code efficiency.  
-  - **Database Management Systems** and Cloud Technologies.  
+  - **Data Structures & Algorithms (DSA)** to have more in depth Knowledge.  
+  - **Database Management Systems**.  
 
 ---
 
@@ -21,14 +21,15 @@
 - **Frameworks & Libraries:** React.js, TailwindCSS, Redux Toolkit, Matplotlib, Seaborn.  
 - **Tools & Platforms:** Postman, Figma, Power BI, GitHub.  
 - **Databases:** MongoDB, MySQL.  
-- **Specializations:** MERN Stack Development, Database Optimization, AI/ML.  
+- **Specializations:** MERN Stack Development, Data Structures and Algorithms, Data Analysis , Computer Networks, Operating Systems, & Object Oriented Programming.  
 
 ---
 
 ### 🏆 Achievements  
-- **Silver Medalist** in **NPTEL DBMS** by IIT Kharagpur, Top 5% of students.  
+- **Silver Medalist** in **NPTEL DBMS** by IIT Kharagpur, Top 5% of students.
+- **100% in Coding** in **TCS NQT DIGITAL** paid.  
 - **CodeChef 2⭐ Coder**, actively solving challenges on **LeetCode** and **GeeksforGeeks.**  
-- Successfully led a team to develop and deploy the **Leven Work** website, a live full-stack project.  
+- Successfully led a team to develop and deploy the **Leven Work** website, a live full-stack Internship.  
 
 ---
 
@@ -37,7 +38,7 @@
 - 🐾 **Coding Ninjas Profile:** [Aman Tripathi](https://www.naukri.com/code360/profile/AmanTripathi)  
 - 🏅 **LeetCode Profile:** [Aman Tripathi](https://leetcode.com/u/AmanTripathi8/)  
 - 💼 **LinkedIn:** [Aman Tripathi](https://www.linkedin.com/in/amanurmaliya/)  
-- 📧 **Email:** amantripathi@example.com  
+- 📧 **Email:** amantripathi609@gmail.com  
 
 ---
 
@@ -51,4 +52,4 @@
 - **Frameworks & Tools:** MERN Stack, TailwindCSS, Redux Toolkit, AI/ML Libraries.  
 - **Competitive Platforms:** GeeksforGeeks, CodeChef, LeetCode, Coding Ninjas.  
 
-*"The journey of a thousand miles begins with a single line of code."*
+*"The journey of a thousand miles begins with a single **Hello World** code."*
