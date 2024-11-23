@@ -43,7 +43,7 @@
 ---
 
 ### 😄 Fun Fact  
-*"Life is all about how your specs see it!"*  
+*"The journey of a thousand lines of Code begins with a single **Hello World** Program."*
 
 ---
 
@@ -52,4 +52,4 @@
 - **Frameworks & Tools:** MERN Stack, TailwindCSS, Redux Toolkit, AI/ML Libraries.  
 - **Competitive Platforms:** GeeksforGeeks, CodeChef, LeetCode, Coding Ninjas.  
 
-*"The journey of a thousand miles begins with a single **Hello World** code."*
+
