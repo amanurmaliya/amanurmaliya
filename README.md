@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Aman Tripathi.
+# 👋 Hi, I’m [Aman Tripathi](https://aman-portfolio-aqq3.onrender.com/)  
 
 ### 🚀 About Me  
 - 💻 **Software Developer** with a knack for solving complex problems and crafting scalable, user-focused applications.  
@@ -34,6 +34,7 @@
 ---
 
 ### 📫 Connect with Me  
+- 📶 **Portfolio:** [Aman Tripathi](https://aman-portfolio-aqq3.onrender.com/)  
 - 🌐 **GeeksforGeeks Profile:** [Aman Tripathi](https://www.geeksforgeeks.org/user/amanurmaliya/)  
 - 🐾 **Coding Ninjas Profile:** [Aman Tripathi](https://www.naukri.com/code360/profile/AmanTripathi)  
 - 🏅 **LeetCode Profile:** [Aman Tripathi](https://leetcode.com/u/AmanTripathi8/)  
